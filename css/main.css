@@ -1,0 +1,10 @@
+@charset "utf-8";
+body {
+	font-weight: bold;
+	background-color: #333;
+	text-align: center;
+}
+#mycanvas {
+	background-color: #999;
+	background-position: center;
+}
